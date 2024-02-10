@@ -1,4 +1,10 @@
-li a{
+li a {
+    color: white;
   text-decoration: none;
-  color: white;
+  transition: 0.5s;
+}
+
+ul li a:hover{
+    color: cyan;
+
 }
